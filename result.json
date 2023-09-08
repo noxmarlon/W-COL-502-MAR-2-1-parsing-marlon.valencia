@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "result": {
+        "movie": [
+            {
+                "title": "The Hitchhiker's Guide to the Galaxy",
+                "date": "(2005)",
+                "description": "Mere seconds before the Earth is to be demolished by an alien construction crew, Arthur Dent is swept off the planet by his friend Ford Prefect, a researcher penning a new edition of &quot;The Hitchhiker's Guide to the Galaxy.&quot;",
+                "status": "Released",
+                "duration": "1h 49m",
+                "budget": "$50,000,000.00",
+                "revenue": "$104,478,416.00",
+                "originalLanguage": "English",
+                "genre": [
+                    "Adventure",
+                    "Comedy",
+                    "Family",
+                    "Science Fiction"
+                ],
+                "keywords": [
+                    "bureaucracy",
+                    "android",
+                    "based on novel or book",
+                    "chase",
+                    "space travel",
+                    "galaxy",
+                    "alien",
+                    "survival",
+                    "part stop motion",
+                    "hitchhiker",
+                    "robot",
+                    "alien invasion",
+                    "hyperspace",
+                    "meaning of life",
+                    "destruction of earth",
+                    "intergalactic travel",
+                    "islington england"
+                ],
+                "cast": [
+                    {
+                        "name": "Douglas Adams",
+                        "character": "Novel, Screenplay"
+                    },
+                    {
+                        "name": "Garth Jennings",
+                        "character": "Director"
+                    },
+                    {
+                        "name": "Karey Kirkpatrick",
+                        "character": "Screenplay"
+                    },
+                    {
+                        "name": "Martin Freeman",
+                        "character": "Arthur Dent"
+                    },
+                    {
+                        "name": "Zooey Deschanel",
+                        "character": "Trillian"
+                    },
+                    {
+                        "name": "Sam Rockwell",
+                        "character": "Zaphod Beeblebrox"
+                    },
+                    {
+                        "name": "Yasiin Bey",
+                        "character": "Ford Prefect"
+                    },
+                    {
+                        "name": "John Malkovich",
+                        "character": "Humma Kavula"
+                    }
+                ]
+            }
+        ]
+    }
+}
